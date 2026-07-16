@@ -1,0 +1,19 @@
+# CMake / MSVC build outputs
+/build/
+/build_dist/
+/dist/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
+!assets/**
+
+# IDE / OS
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
